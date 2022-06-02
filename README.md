@@ -30,7 +30,7 @@ Its recommended that your solution be:
 
 ### Finished?
 
-Upon completion, upload your full solution to a GitHub repo, along with instructions of how to run locally. Include any other relevant information related to your app. We will contact you and let you know if you are a good fit to continue to the next stage.
+Upon completion, upload your full solution to a GitHub repo, along with instructions of how to run locally. Include any other relevant information related to your app. Send us a link and after review we will contact you with our feedback.
 
 
 ## Good Luck!
